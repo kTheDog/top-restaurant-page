@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: rgba(243, 204, 132, 0.651);
+  color: rgb(70, 70, 70);
+}
+
+
+
+.menu-item > img {
+  height: 150px;
+}
